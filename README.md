@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vidip-Ghosh
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development and Open Source Contribution
 - 🌱 I’m currently learning MERN Stack 
 - 📫 How to reach me vidip2001@gmail.com
 

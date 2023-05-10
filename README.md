@@ -33,3 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidip-ghosh&show_icons=true&locale=en" alt="vidip-ghosh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidip-ghosh&" alt="vidip-ghosh" /></p>
+
+
+![contributions](https://github.com/Vidip-Ghosh/Vidip-Ghosh/assets/91741581/29d9f300-20be-47b6-8088-f6661a126c88)

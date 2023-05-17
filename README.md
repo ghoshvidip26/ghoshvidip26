@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vidip2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vIdF69e-QMA1Cl3Uo4IGnun0DwGoZM4G/view?usp=share_link](https://drive.google.com/file/d/1vIdF69e-QMA1Cl3Uo4IGnun0DwGoZM4G/view?usp=share_link)
+- 📄 Know about my experiences [https://tinyurl.com/4yputxa9](https://tinyurl.com/4yputxa9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

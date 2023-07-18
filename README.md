@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidip-ghosh" alt="vidip-ghosh" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **React, Node JS**
+- 💬 Ask me about **React, Express JS, MongoDB**
 
 - 📫 How to reach me **vidip2001@gmail.com**
 

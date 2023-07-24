@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vidip2001@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/4yputxa9](https://tinyurl.com/4yputxa9)
+- 📄 Know about my experiences <a style="text-decoration: underline;" href="https://ghoshvidip26.hackerresume.io/5b16ff8a-fda9-4904-b9f7-c8fd0d088cae">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

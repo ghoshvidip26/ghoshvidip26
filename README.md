@@ -39,6 +39,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidip-Ghosh&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="vidip-ghosh" /></p>
 
+[![VidipGhosh's GitHub | Stats](https://stats.quine.sh/VidipGhosh/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=VidipGhosh)
+[![VidipGhosh's GitHub | Topics Over Time](https://stats.quine.sh/VidipGhosh/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=VidipGhosh)
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vidip-Ghosh&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

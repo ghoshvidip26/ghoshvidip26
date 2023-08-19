@@ -8,11 +8,17 @@
 
 - 🌱 I’m currently learning **Flutter**
 
+- 🌱 I'm passionate about web development and contributing to open-source projects.
+
 - 💬 Ask me about **React, Express JS, MongoDB**
 
 - 📫 How to reach me **vidip2001@gmail.com**
 
 - 📄 Know about my experiences <a style="text-decoration: underline;" href="https://ghoshvidip26.hackerresume.io/5b16ff8a-fda9-4904-b9f7-c8fd0d088cae">Resume</a>
+
+- 🌟 Global Rank #68 in GirlScript Summer Of Code (GSSOC'23) 🚀
+
+- 🏆 MLH: HackBattle React vs Angular Winner 🥇
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

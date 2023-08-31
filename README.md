@@ -49,4 +49,5 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vidip-Ghosh&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![VidipGhosh's GitHub | Topics Over Time](https://stats.quine.sh/VidipGhosh/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=VidipGhosh)
+[![VidipGhosh's GitHub | Dependencies](https://stats.quine.sh/VidipGhosh/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=VidipGhosh)
+[![VidipGhosh's GitHub | Languages Over Time](https://stats.quine.sh/VidipGhosh/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=VidipGhosh)

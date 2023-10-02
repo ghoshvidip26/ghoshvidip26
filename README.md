@@ -30,7 +30,9 @@
 </p>
 
 <h3 align="left">Hacktoberfest 2022 Badges: </h3>
-<img width="1152" alt="Screenshot 2023-05-07 at 10 19 59" src="https://user-images.githubusercontent.com/91741581/236658319-5fbfb3a8-f16f-4741-8f8f-38f5f886140d.png">
+[![An image of @vidip2001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vidip2001)](https://holopin.io/@vidip2001)
+
+<!-- <img width="1152" alt="Screenshot 2023-05-07 at 10 19 59" src="https://user-images.githubusercontent.com/91741581/236658319-5fbfb3a8-f16f-4741-8f8f-38f5f886140d.png"> -->
 
 <h3 align="left">Leetcode 50 days badge 2022: </h3>
 <img src="https://github.com/Vidip-Ghosh/Vidip-Ghosh/assets/91741581/25ab75f6-b5ac-45f1-88c1-4e66aea881e1" width="500" height="400">

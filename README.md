@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vidip Ghosh</h1>
+<img width="640" alt="Screenshot 2023-10-02 at 21 56 39" src="https://github.com/Vidip-Ghosh/Vidip-Ghosh/assets/91741581/f980d255-2d2b-4ae3-aa1d-f531af6be3db"><h1 align="center">Hi 👋, I'm Vidip Ghosh</h1>
 <h3 align="center">Web Development, Open Source and DSA Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidip-ghosh&label=Profile%20views&color=0e75b6&style=flat" alt="vidip-ghosh" /> </p>
@@ -30,8 +30,8 @@
 </p>
 
 <h3 align="left">Hacktoberfest 2022 Badges: </h3>
-[![An image of @vidip2001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vidip2001)](https://holopin.io/@vidip2001)
-
+<img width="640" alt="Screenshot 2023-10-02 at 21 56 39" src="https://github.com/Vidip-Ghosh/Vidip-Ghosh/assets/91741581/aaadff56-d5dd-4e98-a9bd-b2025cf1de12">
+<a href="https://holopin.me/vidip2001" target="blank">Click Here</a>
 <!-- <img width="1152" alt="Screenshot 2023-05-07 at 10 19 59" src="https://user-images.githubusercontent.com/91741581/236658319-5fbfb3a8-f16f-4741-8f8f-38f5f886140d.png"> -->
 
 <h3 align="left">Leetcode 50 days badge 2022: </h3>

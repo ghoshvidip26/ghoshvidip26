@@ -1,4 +1,4 @@
-<img width="640" alt="Screenshot 2023-10-02 at 21 56 39" src="https://github.com/Vidip-Ghosh/Vidip-Ghosh/assets/91741581/f980d255-2d2b-4ae3-aa1d-f531af6be3db"><h1 align="center">Hi 👋, I'm Vidip Ghosh</h1>
+<h1 align="center">Hi 👋, I'm Vidip Ghosh</h1>
 <h3 align="center">Web Development, Open Source and DSA Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidip-ghosh&label=Profile%20views&color=0e75b6&style=flat" alt="vidip-ghosh" /> </p>

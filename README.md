@@ -51,7 +51,7 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Vidip-Ghosh&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" alt="vidip-ghosh" />
   <a href="https://vaunt.dev">
-      <img src="https://api.vaunt.dev/v1/github/entities/Vidip-Ghosh/contributions?format=svg" width="350" title="Includes public contributions"/>
+    <img src="https://api.vaunt.dev/v1/github/entities/Vidip-Ghosh/contributions?format=svg&private=true" width="400" title="Includes public and private contributions" />
   </a>
 </p>
 

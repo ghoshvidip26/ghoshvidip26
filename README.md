@@ -55,9 +55,10 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vidip-Ghosh&theme=highcontrast&hide_border=false" alt="vidip-ghosh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vidip-Ghosh&theme=highcontrast&hide_border=false" alt="vidip-ghosh" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidip-Ghosh&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="vidip-ghosh" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidip-Ghosh&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="vidip-ghosh" /></p>
 
 [![VidipGhosh's GitHub | Stats](https://stats.quine.sh/VidipGhosh/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=VidipGhosh)
 

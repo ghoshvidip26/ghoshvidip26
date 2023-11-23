@@ -53,6 +53,7 @@
   <a href="https://vaunt.dev">
     <img src="https://api.vaunt.dev/v1/github/entities/Vidip-Ghosh/contributions?format=svg&private=true" width="400" title="Includes public and private contributions" />
   </a>
+  <img decoding="async" loading="lazy" src="https://api.vaunt.dev/v1/github/entities/Vidip-Ghosh/achievements?format=svg&limit=20" width="350" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vidip-Ghosh&theme=highcontrast&hide_border=false" alt="vidip-ghosh" />

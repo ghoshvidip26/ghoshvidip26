@@ -18,7 +18,7 @@
 
 - 🌟 Global Rank #68 in GirlScript Summer Of Code (GSSOC'23) 🚀
 
-- 🏆 MLH: HackBattle React vs Angular Winner, MLH: Hack This Fall 2024 First Runner up🥇
+- 🏆 MLH: HackBattle React vs Angular Winner, MLH: Hack This Fall 2024 1st Runner up, 1st place(Programmers with Experience section) at Hack the Bronx 3, Honorable Mention: Student Food Insecurity at WaffleHacks Hackathon🥇
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidip-ghosh&label=Profile%20views&color=0e75b6&style=flat" alt="vidip-ghosh" /> </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vidip-Ghosh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 - 🌱 I’m currently learning **Flutter**
 
 - 🌱 I'm passionate about web development and contributing to open-source projects.
@@ -18,7 +15,13 @@
 
 - 🌟 Global Rank #68 in GirlScript Summer Of Code (GSSOC'23) 🚀
 
-- 🏆 MLH: HackBattle React vs Angular Winner, MLH: Hack This Fall 2024 1st Runner up, 1st place(Programmers with Experience section) at Hack the Bronx 3, Honorable Mention: Student Food Insecurity at WaffleHacks Hackathon🥇
+## 🏆 Hackathon Achievements
+
+- **MLH HackBattle React vs Angular**: Best use of GitHub
+- **MLH Hack This Fall 2024**: 1st Runner up and also honoured with Best use of Vonage
+- **Hack the Bronx 3**: 1st place (Programmers with Experience section)
+- **WaffleHacks Hackathon**: Honorable Mention for addressing Student Food Insecurity
+- **MLH Hack Your Portfolio Hackathon**: Best Networking Hack 🥇
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

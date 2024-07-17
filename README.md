@@ -50,16 +50,16 @@
 ![Hacktober](https://github.com/Vidip-Ghosh/Vidip-Ghosh/assets/91741581/3e0bfeaa-42b9-4f56-affb-95dcf9aaaf4c)
 
 
-# 📊 GitHub Stats:
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Vidip-Ghosh&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" alt="vidip-ghosh" />
-  <a href="https://vaunt.dev">
-    <img src="https://api.vaunt.dev/v1/github/entities/Vidip-Ghosh/contributions?format=svg&private=true" width="400" title="Includes public and private contributions" />
-  </a>
-  <img decoding="async" loading="lazy" src="https://api.vaunt.dev/v1/github/entities/Vidip-Ghosh/achievements?format=svg&limit=20" width="350" />
-</p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vidip-Ghosh&theme=highcontrast&hide_border=false" alt="vidip-ghosh" />
+![Vidip Ghosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vidip-Ghosh&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vidip-Ghosh&theme=highcontrast&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidip-Ghosh&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![Contributions](https://api.vaunt.dev/v1/github/entities/Vidip-Ghosh/contributions?format=svg&private=true)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidip-Ghosh&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="vidip-ghosh" />
 </p>
 

@@ -34,29 +34,3 @@
 <a href="https://auth.geeksforgeeks.org/user/ghoshvidip26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ghoshvidip26" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Hacktoberfest 2022 Badges: </h3>
-<a href="https://holopin.me/vidip2001" target="blank">Click Here</a>
-<img width="1152" alt="Screenshot 2023-05-07 at 10 19 59" src="https://user-images.githubusercontent.com/91741581/236658319-5fbfb3a8-f16f-4741-8f8f-38f5f886140d.png">
-
-<h3 align="left">Leetcode 50 days badge 2022: </h3>
-<img src="https://github.com/Vidip-Ghosh/Vidip-Ghosh/assets/91741581/25ab75f6-b5ac-45f1-88c1-4e66aea881e1" width="500" height="400">
-
-<h3 align="left">Hacktoberfest 2023 Badges: </h3>
-<img width="1217" alt="Screenshot 2023-10-11 at 16 15 13" src="https://github.com/Vidip-Ghosh/Vidip-Ghosh/assets/91741581/992c91b5-d42e-4303-b4eb-b1cb71db824a">
-
-<h3 align="left">Programs Participated In</h3>
-
-![ggssoc](https://github.com/Vidip-Ghosh/Vidip-Ghosh/assets/91741581/d1cefaa6-cbea-4d88-9722-fd0eb23453f1)
-![Hacktober](https://github.com/Vidip-Ghosh/Vidip-Ghosh/assets/91741581/3e0bfeaa-42b9-4f56-affb-95dcf9aaaf4c)
-
-
-## 📊 GitHub Stats
-
-![Vidip Ghosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vidip-Ghosh&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vidip-Ghosh&theme=highcontrast&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidip-Ghosh&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![Contributions](https://api.vaunt.dev/v1/github/entities/Vidip-Ghosh/contributions?format=svg&private=true)
-

@@ -23,11 +23,12 @@
 - **Hack the Bronx 3**: 1st place (Programmers with Experience section)
 - **WaffleHacks Hackathon**: Honorable Mention for addressing Student Food Insecurity
 - **MLH Hack Your Portfolio Hackathon**: Best Networking Hack 🥇
+- **Nillion AI prize winner: 2nd prize**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/vidipghosh" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91741581/236672506-b4b56d2f-e08d-456f-8412-fcda30fbd6ad.png" alt="vidipghosh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vidip-ghosh-9973b7213" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91741581/236672395-4ea3bb33-5702-4772-b320-42c9a69e532f.png" alt="vidip ghosh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ghoshvidip26" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91741581/236672395-4ea3bb33-5702-4772-b320-42c9a69e532f.png" alt="vidip ghosh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ghoshvidip26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ghoshvidip26" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ghoshvidip26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ghoshvidip26" height="30" width="40" /></a>
 </p>
